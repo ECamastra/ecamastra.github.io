@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalogo
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+    <dc:title>Frida Kahlo e Tina Modotti </dc:title>
+    <dc:creator>Sconosciuto </dc:creator>
+    <dc:subject>Frida Kahlo e Tina Modotti</dc:subject>
+    <dc:description>Stampa in bianco e nero realizzata con la tecnica ai sali d'argento che ritrare
+        le
+        artiste Frida Kahlo e Tina Modotti nel Messico dei primi anni '20.</dc:description>
+    <dc:publisher>WSP Photography</dc:publisher>
+    <dc:contributor>WSP Photography</dc:contributor>
+    <dc:date>26 Aprile 2020</dc:date>
+    <dc:type>Immagine digitale </dc:type>
+    <dc:format>jpg</dc:format>
+    <dc:identifier>
+        https://www.collettivowsp.org/2020/04/26/frida-khalo-e-tina-modotti-il-documentario/</dc:identifier>
+    <dc:source>https://www.collettivowsp.org/2020/04/26/frida-khalo-e-tina-modotti-il-documentario/</dc:source>
+    <dc:language>Italiano </dc:language>
+    <dc:rights>
+        Immagine probabilmente soggetta a diritti d'autore. Verificare i diritti d'uso e
+        riproduzione prima dell'utilizzo.
+    </dc:rights>
+</catalogo>

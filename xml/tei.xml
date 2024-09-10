@@ -1,0 +1,52 @@
+<biografia>
+    <controllo_autore>
+        <autore>Anonimo</autore>
+        <data_creazione>2024-09-10</data_creazione>
+        <diritti>Pubblico dominio</diritti>
+    </controllo_autore>
+    <persona>
+        <nome>Tina Modotti</nome>
+        <descrizione>
+            <professione>
+                <ruolo>Emigrante</ruolo>
+                <ruolo>Operaia</ruolo>
+                <ruolo>Attrice</ruolo>
+                <ruolo>Fotografa</ruolo>
+            </professione>
+            <luogo>Messico</luogo>
+            <epoca>Anni '20</epoca>
+            <attivita_politica>
+                <ruolo>Antifascista</ruolo>
+                <ruolo>Militante</ruolo>
+                <movimento>Movimento Comunista Internazionale</movimento>
+                <condizione>Perseguitata</condizione>
+                <condizione>Esule politica</condizione>
+                <ruolo>Garibaldina di Spagna</ruolo>
+            </attivita_politica>
+        </descrizione>
+    </persona>
+    <post_mortem>
+        <scomparsa>Improvvisa</scomparsa>
+        <riconoscimento>
+            <umano>Riconoscimento della personalità umana</umano>
+            <artistico>Riconoscimento dell'opera artistica</artistico>
+            <politico>Riconoscimento dell'attività politica</politico>
+            <diffusione>Buona parte dell'America Latina</diffusione>
+        </riconoscimento>
+        <silenzio>
+            <durata>Trent'anni</durata>
+            <causa>
+                <fattore>Mondo reazionario</fattore>
+                <fattore>Provincialismo</fattore>
+                <fattore>Moralismo dilagante del secolo</fattore>
+            </causa>
+        </silenzio>
+    </post_mortem>
+    <eredità>
+        <fotografia>
+            <impatto>Tina trasforma il modo di fotografare</impatto>
+            <durata>In pochi anni</durata>
+            <esperienza>Esperienza artistica folgorante</esperienza>
+        </fotografia>
+    </eredità>
+</biografia>
